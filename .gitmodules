@@ -1,0 +1,3 @@
+[submodule "sdwebuiapi"]
+	path = sdwebuiapi
+	url = https://github.com/mix1009/sdwebuiapi
